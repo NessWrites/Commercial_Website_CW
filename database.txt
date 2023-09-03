@@ -1,0 +1,6 @@
+invoice:Tessa9800000000, date:25-8-2023, customer_name:Tessa, phone_number:9800000000, product_number:2, item_name:Microphone Set, item_brand:Audio Technica, rental_period:2, item_price:$189, unit:5
+invoice:Nessa9800001234, date:25-8-2023, customer_name:Nessa, phone_number:9800001234, product_number:1, item_name:Velvet Table Cloth, item_brand:Saathi, rental_period:1, item_price:$8, unit:10
+invoice:Nessa9800001234, date:25-8-2023, customer_name:Nessa, phone_number:9800001234, product_number:2, item_name:Microphone Set, item_brand:Audio Technica, rental_period:1, item_price:$189, unit:10
+invoice:Tessa9841000000, date:25-8-2023, customer_name:Tessa, phone_number:9841000000, product_number:1, item_name:Velvet Table Cloth, item_brand:Saathi, rental_period:1, item_price:$8, unit:1
+invoice:Tessa9841000000, date:25-8-2023, customer_name:Tessa, phone_number:9841000000, product_number:2, item_name:Microphone Set, item_brand:Audio Technica, rental_period:1, item_price:$189, unit:1
+invoice:Tessa9841000000, date:25-8-2023, customer_name:Tessa, phone_number:9841000000, product_number:3, item_name:Disco Light Set, item_brand:Sonoff, rental_period:1, item_price:$322, unit:1
